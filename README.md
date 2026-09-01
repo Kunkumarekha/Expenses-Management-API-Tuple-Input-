@@ -264,17 +264,8 @@ Add expense categories
 Add monthly expense reports
 Add expense analytics
 Create a frontend interface
-🎥 Project Demo
-You can add a short demo video showing:
 
-Starting the FastAPI server
-Opening Swagger UI
-Adding an expense
-Viewing all expenses
-Searching for an expense
-Updating an expense amount
-Deleting an expense
-Demo Video: [Add your video link here]
+
 
 👩‍💻 Author
 Kunkuma Rekha
